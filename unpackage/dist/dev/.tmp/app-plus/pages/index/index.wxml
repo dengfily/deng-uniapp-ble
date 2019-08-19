@@ -1,0 +1,1 @@
+<view class="content"><view class="text-area"><text>{{"心跳 : "+tempValue+" 次/分"}}</text></view><image class="logo" src="/static/logo.png"></image><navigator url="/pages/blePage/blePage" navigateBack hover-class="navigator-hover"><button type="primary">蓝牙操作</button></navigator></view>

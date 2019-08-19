@@ -1,0 +1,30 @@
+
+button.noAllow.data-v-504e8176{
+	color: #999;
+	background-color: #ccc;
+}
+.device-list.data-v-504e8176{
+	position: relative;
+	padding: 10rpx;
+	border-bottom: 1rpx solid #999999;
+}
+.connect-btn.data-v-504e8176{
+	position: absolute;
+	top: 30rpx;
+	right: 30rpx;
+}
+.ble-act-btn.data-v-504e8176{
+	width: 100%;
+	padding: 0 20rpx;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	overflow: hidden;
+}
+.ble-act-btn button.data-v-504e8176{
+	float: left;
+	width: 49%;
+}
+.ble-act-btn button.data-v-504e8176:last-child{
+	margin-left: 2%;
+}
+
